@@ -1,5 +1,5 @@
 # 内容：BilibiliHMT 哔哩哔哩 港澳台番剧
-# 数量：132条
+# 数量：128条
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com
@@ -122,10 +122,6 @@ IP-CIDR,120.92.113.99/32,no-resolve
 IP-CIDR,120.92.153.217/32,no-resolve
 IP-CIDR,134.175.207.130/32,no-resolve
 IP-CIDR,203.107.1.0/24,no-resolve
-USER-AGENT,*bili*
-USER-AGENT,Bilibili*
-USER-AGENT,bili*
-USER-AGENT,bili-inter*
 PROCESS-NAME,com.bilibili.app.blue
 PROCESS-NAME,com.bilibili.app.in
 PROCESS-NAME,com.bilibili.comic
