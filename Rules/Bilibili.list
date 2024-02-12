@@ -1,5 +1,10 @@
-# 内容：BilibiliHMT 哔哩哔哩 港澳台番剧
-# 数量：128条
+# NAME: BiliBili
+# UPDATED: 2024-02-03 01:46:30
+# DOMAIN: 53
+# DOMAIN-SUFFIX: 62
+# IP-CIDR: 8
+# PROCESS-NAME: 6
+# TOTAL: 129
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com
@@ -92,6 +97,7 @@ DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,biligo.com
 DOMAIN-SUFFIX,biliimg.com
+DOMAIN-SUFFIX,biliintl.co
 DOMAIN-SUFFIX,biliintl.com
 DOMAIN-SUFFIX,biliplus.com
 DOMAIN-SUFFIX,bilivideo.cn
