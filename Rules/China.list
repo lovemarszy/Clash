@@ -1,4 +1,6 @@
 # China Area Network
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,flyert.com
 DOMAIN-SUFFIX,gandi.net
 DOMAIN-SUFFIX,snapdrop.net
@@ -61,8 +63,6 @@ DOMAIN-SUFFIX,redacted.ch
 DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,totheglory.im
-# > NovaXNS
-DOMAIN-SUFFIX,xns.rodeo
 
 # Just for Quantumult X, move GEOIP,CN to the bottom (local filter at the top by default)
 GEOIP,CN,no-resolve
