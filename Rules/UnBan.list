@@ -1,43 +1,25 @@
-# Unbreak 白名单 不应该被广告链接的网站
-
-# Epicgames
-DOMAIN-SUFFIX,ol.epicgames.com
-
-# Getui
-DOMAIN-SUFFIX,dizhensubao.getui.com
-
-# Google
-DOMAIN,dl.google.com
-DOMAIN-SUFFIX,googletraveladservices.com
-
-# Mozilla
-DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
-
-# Origin
-DOMAIN,origin-a.akamaihd.net
-
-# Tencent
+# Unbreak
+# > General
+DOMAIN,app.adjust.com
+DOMAIN,app.appsflyer.com
+DOMAIN,bdtj.tagtic.cn
+# > Alibaba
+DOMAIN,log.mmstat.com
+DOMAIN,sycm.mmstat.com
+# > Google
+DOMAIN,safebrowsing.googleapis.com
+DOMAIN,safebrowsing.googleapis-cn.com
+DOMAIN,safebrowsing.clients.google.com
+DOMAIN,safebrowsing-cache.google.com
+# >> Paramount+
+# DOMAIN,pubads.g.doubleclick.net
+# > Tencent
 DOMAIN,fairplay.l.qq.com
 DOMAIN,livew.l.qq.com
 DOMAIN,vd.l.qq.com
-
-# Strava
-
-# Umeng
-DOMAIN,errlog.umeng.com
+DOMAIN,vi.l.qq.com
+# > Strava
+DOMAIN,analytics.strava.com
+# > Umeng
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
-
-# Miui 小米
-DOMAIN,tracking.miui.com
-
-# General
-DOMAIN,app.adjust.com
-DOMAIN,bdtj.tagtic.cn
-
-# Hypixel Network
-DOMAIN,rewards.hypixel.net
-
-# Koodo Mobile
-DOMAIN-SUFFIX,koodomobile.com
-DOMAIN-SUFFIX,koodomobile.ca
