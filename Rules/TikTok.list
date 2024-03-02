@@ -27,5 +27,4 @@ DOMAIN-SUFFIX,tiktokmusic.app
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,tiktok
-USER-AGENT,TikTok*
 PROCESS-NAME,com.zhiliaoapp.musically
