@@ -10,3 +10,7 @@ DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,o33249.ingest.sentry.io
 # > Gemini
 DOMAIN,bard.google.com
+# > Claude
+DOMAIN,cdn.usefathom.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
