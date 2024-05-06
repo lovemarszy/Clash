@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,cdn.auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,o33249.ingest.sentry.io
+DOMAIN-SUFFIX,chatgpt.com
 # > Gemini
 DOMAIN,bard.google.com
 # > Claude
