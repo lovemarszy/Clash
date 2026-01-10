@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,o33249.ingest.sentry.io
 DOMAIN-SUFFIX,chatgpt.com
 # > Gemini
-# > TOTAL: 13
+# TOTAL: 13
 DOMAIN,ai.google.dev
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,makersuite.google.com
@@ -24,8 +24,8 @@ DOMAIN-SUFFIX,apis.google.com
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
-DOMAIN-KEYWORD,aistudio.google.com
 # > Claude
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+
